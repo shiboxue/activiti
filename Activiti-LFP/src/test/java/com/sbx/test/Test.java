@@ -3,8 +3,9 @@ package com.sbx.test;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		 Integer pageSize = 5;
+		 Integer count = 2;
+		 System.out.println(count / pageSize);				 
 	}
 
 }
